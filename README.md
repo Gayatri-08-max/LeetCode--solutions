@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0704-binary-search) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
