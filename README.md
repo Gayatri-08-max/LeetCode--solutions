@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0035-search-insert-position) |
+| [0441-arranging-coins](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0441-arranging-coins) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## String
 |  |
