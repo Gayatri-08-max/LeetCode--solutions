@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
@@ -69,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
