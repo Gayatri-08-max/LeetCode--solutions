@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0441-arranging-coins) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
