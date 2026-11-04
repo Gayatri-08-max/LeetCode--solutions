@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0441-arranging-coins) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1837-sum-of-digits-in-base-k) |
 ## String
 |  |
 | ------- |
