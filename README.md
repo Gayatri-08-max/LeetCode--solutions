@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2652-sum-multiples](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |
