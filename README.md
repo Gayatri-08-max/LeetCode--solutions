@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0344-reverse-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Greedy
 |  |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2169-count-operations-to-obtain-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
