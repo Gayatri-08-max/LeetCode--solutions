@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
