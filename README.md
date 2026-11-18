@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0344-reverse-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Greedy
 |  |
 | ------- |
