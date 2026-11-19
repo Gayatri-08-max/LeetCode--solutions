@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0496-next-greater-element-i) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0344-reverse-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Greedy
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0169-majority-element) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Gayatri-08-max/LeetCode--solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
